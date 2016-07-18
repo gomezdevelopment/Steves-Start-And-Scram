@@ -1,0 +1,41 @@
+lib/unistr/u8-mbtoucr.o: lib/unistr/u8-mbtoucr.c \
+ /usr/include/stdc-predef.h lib/config.h lib/unistr.h lib/unitypes.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.8/include/stdint.h /usr/include/stdint.h \
+ /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-32.h /usr/include/bits/wchar.h \
+ lib/unused-parameter.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.8/include/stdbool.h lib/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.8/include/stddef.h
+
+/usr/include/stdc-predef.h:
+
+lib/config.h:
+
+lib/unistr.h:
+
+lib/unitypes.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-32.h:
+
+/usr/include/bits/wchar.h:
+
+lib/unused-parameter.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include/stdbool.h:
+
+lib/stddef.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include/stddef.h:
