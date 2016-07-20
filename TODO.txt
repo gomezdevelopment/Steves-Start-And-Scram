@@ -1,6 +1,9 @@
 Still to do...
 -add 'fdisk' into Steve's Start and Scram ISO
-	-EDIT: compiled. Need to integrate
+	-EDIT: compiled. Integrated
 -add 'shuf' into Steve's Start and Scram ISO
-	-EDIT: Picked out just 'shuf' and is placed in /bin/
+	-EDIT: Picked out just 'shuf' and is placed integrated in /bin/
+-add 'parted' and 'partprobe'
+	-EDIT: Integrated.
+-minimize as much as i can
 -Fancy splash screen? :P
